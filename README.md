@@ -9,3 +9,4 @@ Some of the patterns have been shown below:</br>
 ![triangle](https://user-images.githubusercontent.com/29675122/44421099-47ed9080-a59d-11e8-8b8c-f281d1cd3fc9.png)</br>
 4)Hollow Diamond</br>
 ![hollowdiamond](https://user-images.githubusercontent.com/29675122/44421108-4de37180-a59d-11e8-839a-8fbdc2666b54.png)</br>
+5)Pattern4</br>
