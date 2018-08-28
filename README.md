@@ -10,3 +10,6 @@ Some of the patterns have been shown below:</br>
 4)Hollow Diamond</br>
 ![hollowdiamond](https://user-images.githubusercontent.com/29675122/44421108-4de37180-a59d-11e8-839a-8fbdc2666b54.png)</br>
 5)Pattern4</br>
+![pattern4](https://user-images.githubusercontent.com/29675122/44738804-a70a5280-ab13-11e8-84c5-c6c26bf57aee.png)</br>
+6)Pattern7</br>
+![pattern7](https://user-images.githubusercontent.com/29675122/44738819-ac679d00-ab13-11e8-9734-e7654f0d40fb.png)
