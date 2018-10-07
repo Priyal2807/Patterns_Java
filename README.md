@@ -12,4 +12,6 @@ Some of the patterns have been shown below:</br>
 5)Pattern4</br>
 ![pattern4](https://user-images.githubusercontent.com/29675122/44738804-a70a5280-ab13-11e8-84c5-c6c26bf57aee.png)</br>
 6)Pattern7</br>
-![pattern7](https://user-images.githubusercontent.com/29675122/44738819-ac679d00-ab13-11e8-9734-e7654f0d40fb.png)
+![pattern7](https://user-images.githubusercontent.com/29675122/44738819-ac679d00-ab13-11e8-9734-e7654f0d40fb.png)</br>
+7)Baklava</br>
+![bakalava](https://user-images.githubusercontent.com/29675122/46582624-66cdb680-ca67-11e8-9983-b74b1b4736cd.png)
